@@ -1,5 +1,7 @@
 PersonaProfiler is a small project that leverages large language models (LLMs) to analyze exported ChatGPT (or from any other provider) conversations and deduce personal information. The goal is to demonstrate how digital dialogues can reveal sensitive data — not only what is directly shared but also what can be inferred through context.
 
+I wrote a detailed a medium story about this project and its findings using my own data. You can [check it here](https://medium.com/@loving_ochre_cattle_466/profiling-users-from-conversations-what-openai-or-other-chatbot-providers-know-about-you-5014750fa8bb).
+
 # Setup
 1. (Optional) create a virtual environment
 2. pip install -r requirements.txt
