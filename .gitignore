@@ -1,0 +1,8 @@
+.env
+outputs/*
+!outputs/.gitkeep
+
+error_log.txt
+.python-version
+chatGPT-data/*
+!chatGPT-data/.gitkeep
